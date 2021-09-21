@@ -1,0 +1,95 @@
+# jemdoc: menu{MENU}{about_me.html}, nofooter
+== Puping (Phil) Jiang, 江浦平
+
+~~~
+{}{img_left}{job_market.JPG}{}{134.4}{201.6}{} #{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+Ph.D. Candidate
+
+Olin Business School, Washington University in St.Louis
+
+=== Contact
+Email: [jiang.p@wustl.edu]
+
+[/home/jpp/MyGit/jiang-puping.github.io/Jiang_Puping_CV.pdf CV]~~~[https://scholar.google.com/citations?user=JatIIzQAAAAJ&hl=en&oi=ao Google Scholar]~~~[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3229780 SSRN]~~~[https://www.researchgate.net/profile/Puping-Jiang ResearchGate]
+~~~
+
+I'm a sixth-year Ph.D. candidate in Supply Chain, Operations and Technology at Olin Business School, Washington University in St.Louis.
+I received my B.S. in statistics from University of Science and Technology of China (USTC) in 2016.
+
+My research focuses on revenue management problems in data-rich business settings with applications in asset selling platforms (e.g., used cars, real estate) and retailing platforms, and information issues in risk management (including the contexts of supply chain finance, blockchain implementation, etc.).
+One of my work is the Winner of [https://www.poms.org/2019/12/2020_pitm_student_paper_compet.html 2020 POMS College of PITM Best Student Paper Competition].
+
+I am on the 2021-2022 job market this year.
+I will host a [https://www.abstractsonline.com/pp8/\#!/10390/session/124 session at INFORMS Annual Meeting (2021)] where I will present one of my on-going projects.
+
+{{<a name="research"></a>}}
+== Research
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484664 Blockchain Adoption for Traceability in Food Supply Chain Networks.] (with Lingxiu Dong, Fasheng Xu)\n
+Major revision, /Management Science/.
+- Tied Winner, POMS 2020 PITM College Best Student Paper Competition.
+
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3909033 Display Optimization Under the Multinomial Logit Choice Model: Balancing Revenue and Customer Satisfaction.] (with Jacob Feldman)\n
+Under review, /Operations Research/.
+
+Cash Hedging Motivates Information Sharing in Supply Chains. (with Panos Kouvelis)\n
+Under review, /Management Science/.
+
+Data-Driven Asset Selling (with Lingxiu Dong)\n
+In preparation for submission.
+
+Online Optimization in Asset Selling Platforms. (with René Caldentey, Lingxiu Dong)\n
+Work in progress.
+- [https://www.abstractsonline.com/pp8/\#!/10390/session/124 Scheduled presentation at INFORMS Annual Meeting (Oct.27th, 2021)].
+
+{{<a name="a_h"></a>}}
+== Awards \& Honors
+Tied Winner, POMS 2020 PITM College Best Student Paper Competition\n
+2020 Moog Scholar Award, Olin Business School, WUSTL\n
+2019 Moog Scholar Award, Olin Business School, WUSTL
+
+{{<a name="conf"></a>}}
+== Conference Presentations
+Online Optimization in Asset Selling Platforms.
+- INFORMS Annual Meeting, Virtual, 10/2021 (scheduled)
+
+Data-Driven Asset Selling.
+- INFORMS RMP Conference, Virtual, 06/2021
+- MSOM International Conference, Virtual, 06/2021
+
+Cash Hedging Motivates Information Sharing in a Supply Chain.
+- POMS Annual Conference, Virtual, 05/2021
+- INFORMS Virtual Annual Meeting, 11/2020
+
+Blockchain Adoption for Traceability in Food Supply Chain Networks.
+- INFORMS Virtual Annual Meeting, 11/2020
+- INFORMS Annual Meeting, Seattle, 10/2019
+- MSOM International Conference, Singapore, 07/2019
+- POMS Annual Conference, Washington DC, 05/2019
+
+{{<a name="t_c"></a>}}
+== Teaching \& Consulting
+Teaching Assistant \& Guest Lecturer
+- Inventory \& Supply-Chain Mgt. Theory \& Research (PhD Core: SP 2019)
+- Stochastic Models for Production and Service Systems (PhD Core: SP 2019)
+- Theory and Research Methods in Inventory and Supply Chain Management (PhD Core: FL 2019)
+- Intro to Python and Data Science (MSSCM, MSCA Core: FL 2018, FL 2019)		
+- Introduction to Revenue Management (MSSCA Core: FL 2020)
+- Operations Management (MBA Core: 2017, 2018)
+- Prescriptive Analytics (MSSCM Core: FL 2018, FL 2019, FL 2020)		
+- Supply Chain Management (Undergraduate: SP 2019)
+- Supply Chain Analytics Capstone (MSSCA Core: Fl 2019, Fl 2021)
+
+Consulting (Boeing Center for Supply Chain Innovation, Olin Business School, WUSTL)
+- Edward Jones: Contractor ROI, Spring, 2018
+
+- MilliporeSigma: Identifying Investment Opportunities through Online Customer Analytics, Fall, 2018
+
+- MilliporeSigma: Pull-Through Revenue Potential of Fetal Bovine Serum, Spring, 2019
+
+- MilliporeSigma: Make-To-Stock Finished Item Selection, Fall, 2019
+
+- Belden: Price Optimization Model, Spring, 2020
+
+- Express Script: Drug Price Change Forecasts, Fall, 2020
+
+- Bunge: Demand and Supply Analysis on Lecithin, Spring, 2021
