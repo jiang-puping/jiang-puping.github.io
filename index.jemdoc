@@ -1,5 +1,4 @@
-# jemdoc: menu{MENU}{about_me.html}, nofooter
-# jemdoc: analytics{UA-207380284-2}
+# jemdoc: menu{MENU}{about_me.html}, nofooter, analytics{UA-207380284-2}
 == Puping (Phil) Jiang, 江浦平
 
 ~~~
