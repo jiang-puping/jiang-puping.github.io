@@ -14,16 +14,24 @@ body {
 }
 
 #layout-menu {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
-	padding-top: 0.5em;
-	padding-left: 8px;
-	padding-right: 8px;
-	font-size: 1.0em;
-	width: auto;
-	white-space: nowrap;
-	text-align: left;
-	vertical-align: top;
+    background: #f6f6f6;
+    border: 1px solid #dddddd;
+    padding-top: 0.5em;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 1.0em;
+    width: auto;
+    white-space: nowrap;
+    text-align: left;
+    vertical-align: top;
+
+    /*My Code*/
+    height: 100%;
+    position: fixed;
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
 }
 
 #layout-menu td {
@@ -41,6 +49,10 @@ body {
 	vertical-align: top;
 	min-width: 800px;
 	width: 800px;
+
+    /*My Code*/
+    position: absolute;
+    left: 200px;
 }
 
 #layout-menu a {
