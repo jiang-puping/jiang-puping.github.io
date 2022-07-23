@@ -27,7 +27,7 @@ body {
 
     /*My Code*/
     height: 100%;
-    position: fixed;
+    position: fixed; /* Sidebar fixed */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 0;
