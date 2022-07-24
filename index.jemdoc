@@ -2,10 +2,11 @@
 == Puping (Phil) Jiang, 江浦平
 
 ~~~
-{}{img_left}{job_market.JPG}{}{134.4}{201.6}{} #{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
-Ph.D. Candidate
+{}{img_left}{job_market_compressed.jpg}{}{134.4}{201.6}{} #{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+Assistant Professor
 
-Olin Business School, Washington University in St.Louis
+Department of Management Science\n
+Antai College of Economics and Management, Shanghai Jiao Tong University
 
 === Contact
 Email: [jiang.p@wustl.edu]
@@ -13,16 +14,16 @@ Email: [jiang.p@wustl.edu]
 [Jiang_Puping_CV.pdf CV]~~~[https://scholar.google.com/citations?user=JatIIzQAAAAJ&hl=en&oi=ao Google Scholar]~~~[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3229780 SSRN]~~~[https://www.researchgate.net/profile/Puping-Jiang ResearchGate]
 ~~~
 
-I'm a sixth-year Ph.D. candidate in Supply Chain, Operations and Technology at Olin Business School, Washington University in St.Louis.
-I received my B.S. in statistics from University of Science and Technology of China (USTC) in 2016.
+I'm an Assistant Professor at the Department of Management Science at Antai College of Economics and Management, Shanghai Jiao Tong University. 
+I got my Ph.D. degree in Supply Chain, Operations and Technology from Olin Business School, Washington University in St.Louis in 2022.
+Before that, I received my B.S. in statistics from the University of Science and Technology of China (USTC) in 2016.
 
 My research focuses on revenue management problems in data-rich business settings with applications in asset selling platforms (e.g., used cars, real estate) and retailing platforms, and information issues in risk management (including the contexts of supply chain finance, blockchain implementation, etc.).
-One of my work is the Winner of [https://www.poms.org/2019/12/2020_pitm_student_paper_compet.html 2020 POMS College of PITM Best Student Paper Competition].
 
 {{<a name="research"></a>}}
 == Research
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484664 Impact of Traceability Technology Adoption in Food Supply Chain Networks] (with Lingxiu Dong, Fasheng Xu)\n
-Forthcoming, /Management Science/.
+/Management Science/, forthcoming.
 - Tied Winner, POMS 2020 PITM College Best Student Paper Competition.
 - Previously titled "Blockchain Adoption for Traceability in Food Supply Chain Networks"
 
@@ -46,26 +47,24 @@ Tied Winner, POMS 2020 PITM College Best Student Paper Competition\n
 
 {{<a name="conf"></a>}}
 == Conference Presentations
-Online Optimization in Asset Selling Platforms.
-- INFORMS Annual Meeting, Virtual, 10/2021 
 
-Data-Driven Asset Selling.
-- INFORMS RMP Conference, Virtual, 06/2021
-- MSOM International Conference, Virtual, 06/2021
-
-Cash Hedging Motivates Information Sharing in a Supply Chain.
-- POMS Annual Conference, Virtual, 05/2021
-- INFORMS Virtual Annual Meeting, 11/2020
-
-Blockchain Adoption for Traceability in Food Supply Chain Networks.
-- INFORMS Virtual Annual Meeting, 11/2020
-- INFORMS Annual Meeting, Seattle, 10/2019
-- MSOM International Conference, Singapore, 07/2019
-- POMS Annual Conference, Washington DC, 05/2019
+INFORMS RMP Conference, Virtual, 06\/2022\n
+POMS Annual Conference, Virtual, 05\/2022\n
+INFORMS RMP Conference, Virtual, 06\/2021\n
+MSOM International Conference, Virtual, 06\/2021\n
+POMS Annual Conference, Virtual, 05\/2021\n
+INFORMS Annual Meeting, Virtual, 11\/2020\n
+INFORMS Annual Meeting, Seattle, 10\/2019\n
+MSOM International Conference, Singapore, 07\/2019\n
+POMS Annual Conference, Washington DC, 05\/2019
 
 {{<a name="t_c"></a>}}
 == Teaching \& Consulting
-Teaching Assistant \& Guest Lecturer
+Instructor (Antai, SJTU)
+- Intro to Stochastic Optimization (MS: SP 2023)
+- Simulations for Management (Undergraduate: FL 2022)
+
+Teaching Assistant \& Guest Lecturer (Olin, WUSTL)
 - Inventory \& Supply-Chain Mgt. Theory \& Research (PhD Core: SP 2019)
 - Stochastic Models for Production and Service Systems (PhD Core: SP 2019)
 - Theory and Research Methods in Inventory and Supply Chain Management (PhD Core: FL 2019)
