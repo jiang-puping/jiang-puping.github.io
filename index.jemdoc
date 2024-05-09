@@ -22,23 +22,35 @@ My research focuses on revenue management problems in data-rich business setting
 
 {{<a name="research"></a>}}
 == Research
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484664 Impact of Traceability Technology Adoption in Food Supply Chain Networks] (with Lingxiu Dong, Fasheng Xu)\n
+
+=== Revenue Management
+
+==== Asset Selling
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815339 Data-Driven Asset Selling.] (with Lingxiu Dong) {{&nbsp;&nbsp;}} (Dynamic Pricing)\n
+Under review.
+- Finalist, 2022 Jeff McGill Student Paper Award, INFORMS RMP Section.
+
+Online Optimization in Asset Selling Platforms. (with René Caldentey, Lingxiu Dong) {{&nbsp;&nbsp;}} (Dynamic Pricing)\n
+In preparation.
+
+How Does Delay Matter? Online Matching with Delayed Stochastic Rewards. (with Yiding Feng, Wei Tang) {{&nbsp;&nbsp;}} (Online Matching)\n
+In preparation.
+
+==== Retailing
+[https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14040 Display Optimization Under the Multinomial Logit Choice Model: Balancing Revenue and Customer Satisfaction.] (with Jacob Feldman) {{&nbsp;&nbsp;}} (Assortment Optimization)\n
+/Production and Operations Management/, 2023.
+
+
+=== Supply Chain Management
+
+==== Risk Management
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484664 Impact of Traceability Technology Adoption in Food Supply Chain Networks] (with Lingxiu Dong, Fasheng Xu) {{&nbsp;&nbsp;}} (Perishable Goods Supply Chain Traceability)\n
 /Management Science/, 2022.
 - Tied Winner, POMS 2020 PITM College Best Student Paper Competition.
 - Previously titled "Blockchain Adoption for Traceability in Food Supply Chain Networks"
 
-[https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14040 Display Optimization Under the Multinomial Logit Choice Model: Balancing Revenue and Customer Satisfaction.] (with Jacob Feldman)\n
-/Production and Operations Management/, 2023.
-
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936170 Vertical Information Sharing in the Presence of Investment Shocks: When May It Happen?] (with Panos Kouvelis)\n
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936170 Vertical Information Sharing in the Presence of Investment Shocks: When May It Happen?] (with Panos Kouvelis) {{&nbsp;&nbsp;}} (Information Sharing)\n
 Under review.
-
-Data-Driven Asset Selling (with Lingxiu Dong)\n
-In preparation for submission.
-- Finalist, 2022 Jeff McGill Student Paper Award, INFORMS RMP Section.
-
-Online Optimization in Asset Selling Platforms. (with René Caldentey, Lingxiu Dong)\n
-In preparation for submission.
 
 {{<a name="a_h"></a>}}
 == Awards \& Honors
@@ -47,46 +59,3 @@ Tied Winner, POMS 2020 PITM College Best Student Paper Competition\n
 2020 Moog Scholar Award, Olin Business School, WUSTL\n
 2019 Moog Scholar Award, Olin Business School, WUSTL
 
-{{<a name="conf"></a>}}
-== Conference Presentations
-
-INFORMS RMP Conference, Virtual, 06\/2022\n
-POMS Annual Conference, Virtual, 05\/2022\n
-INFORMS RMP Conference, Virtual, 06\/2021\n
-MSOM International Conference, Virtual, 06\/2021\n
-POMS Annual Conference, Virtual, 05\/2021\n
-INFORMS Annual Meeting, Virtual, 11\/2020\n
-INFORMS Annual Meeting, Seattle, 10\/2019\n
-MSOM International Conference, Singapore, 07\/2019\n
-POMS Annual Conference, Washington DC, 05\/2019
-
-{{<a name="t_c"></a>}}
-== Teaching \& Consulting
-Instructor (Antai, SJTU)
-- Simulations for Management (Undergraduate: FL 2022)
-
-Teaching Assistant \& Guest Lecturer (Olin, WUSTL)
-- Inventory \& Supply-Chain Mgt. Theory \& Research (PhD Core: SP 2019)
-- Stochastic Models for Production and Service Systems (PhD Core: SP 2019)
-- Theory and Research Methods in Inventory and Supply Chain Management (PhD Core: FL 2019)
-- Intro to Python and Data Science (MSSCM, MSCA Core: FL 2018, FL 2019)		
-- Introduction to Revenue Management (MSSCA Core: FL 2020)
-- Operations Management (MBA Core: 2017, 2018)
-- Prescriptive Analytics (MSSCM Core: FL 2018, FL 2019, FL 2020)		
-- Supply Chain Management (Undergraduate: SP 2019)
-- Supply Chain Analytics Capstone (MSSCA Core: Fl 2019, Fl 2021)
-
-Consulting (Boeing Center for Supply Chain Innovation, Olin Business School, WUSTL)
-- Edward Jones: Contractor ROI, Spring, 2018
-
-- MilliporeSigma: Identifying Investment Opportunities through Online Customer Analytics, Fall, 2018
-
-- MilliporeSigma: Pull-Through Revenue Potential of Fetal Bovine Serum, Spring, 2019
-
-- MilliporeSigma: Make-To-Stock Finished Item Selection, Fall, 2019
-
-- Belden: Price Optimization Model, Spring, 2020
-
-- Express Script: Drug Price Change Forecasts, Fall, 2020
-
-- Bunge: Demand and Supply Analysis on Lecithin, Spring, 2021
