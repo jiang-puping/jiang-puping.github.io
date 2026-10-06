@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{about_me.html}, nofooter, analytics{UA-207380284-2}
-== Puping (Phil) Jiang, 江浦平
+== Puping Jiang, 江浦平
 
 ~~~
 {}{img_left}{job_market_200kb.jpg}{}{134.4}{201.6}{} #{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
@@ -34,7 +34,8 @@ Online Optimization in Asset Selling Platforms. (with René Caldentey, Lingxiu D
 To be submitted.
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150007 Simple Delay-Oblivious Policies Are Robust: Overbooking with Delayed Purchases.] (with Yiding Feng, Wei Tang) {{&nbsp;&nbsp;}} (Online Matching)\n
-Under review.
+/WINE 2026: The 22nd Conference on Web and Internet Economics./, 2026.\n
+Journal version under review.
 
 ==== Retailing
 [https://journals.sagepub.com/doi/full/10.1111/poms.14040 Display Optimization Under the Multinomial Logit Choice Model: Balancing Revenue and Customer Satisfaction.] (with Jacob Feldman) {{&nbsp;&nbsp;}} (Assortment Optimization)\n
@@ -44,6 +45,7 @@ Under review.
 Shot-term Pain for Long-term Gain: Adaptive Experiment with Post-Commitment Reward Shift. (with Wei Tang) {{&nbsp;&nbsp;}} (Online Learning, Experiment Design)\n
 /EC 2026: The 27th ACM Conference on Economics and Computation./, 2026.\n
 Journal version under review.
+[https://github.com/jiang-puping/Research-Code/tree/main/Explore-Commit GitHub link]
 
 
 === Supply Chain Management
